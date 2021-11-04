@@ -182,6 +182,7 @@ userData = {
 GSOffsetHorizontal = 2;
 GSOffsetVertical = 1;
 };
+weightValue = 400;
 xHeight = 225;
 }
 );
@@ -100678,6 +100679,7 @@ width = 220;
 );
 instances = (
 {
+interpolationWeight = 400;
 instanceInterpolations = {
 "1A0EDF0C-2B61-4714-947B-2452868211A8" = 1;
 };

@@ -2,7 +2,7 @@
 
 Waterfall is a calligraphic script that combines elements of traditional hand lettered italic form with more formal, elegant script connecting characters. It's both beautiful and contemporary.
 
-![Sample Image](Documentation/image1.png)
+![Sample Image](documentation/image1.png)
 
 ## Building the Fonts
 
